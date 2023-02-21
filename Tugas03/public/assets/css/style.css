@@ -1,0 +1,57 @@
+body {
+  font-family: Century Gothic;
+  color: #272829;
+  background-color: #E3DFFD;
+}
+
+.tab {
+  margin-left: 270px;
+}
+
+header{
+  display: flex;
+  position: relative;
+  text-align: center;
+  justify-content: center;
+  background-color: #2B3467;
+  font-size: 25px;
+  font-family: "poppins";
+  color: aliceblue;
+  margin-bottom: 50px;
+  line-height: 200%;
+
+}
+
+.card{
+  float: right;
+  padding: 20%;
+  border: 5px solid #ccc;
+  padding: 30px;
+  width: 230px;
+  height: 450px;
+  margin-right: 100px;
+}
+
+.myprofile{
+  height: 150px;
+  width: 120px;
+  margin-left: 50px;
+}
+
+
+
+
+  
+footer{
+  position: fixed;
+  bottom:0;
+  right:0;
+  left:0;
+  height:50px ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #2B3467;
+  color: #ccc;
+
+} 
